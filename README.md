@@ -26,7 +26,7 @@ The database used in the project is AdventureWorkLT2017 which consists of ten ta
 
 # Environment Setup
 
-The resource group consisting of all required files is created in Azure portal. A login sql script is written in order to connect the on prem database to Azure. The reader access is provided to the user in the studio.
+The resource group consisting of all required files is created in Azure portal. A login sql script is written in order to connect the on premise database to Azure. The reader access is provided to the user in the studio.
 
 # Data Ingestion
 
